@@ -12,7 +12,7 @@ TensorFlow 2.4
 Horovod
 ```
 
-The pre-trained models of OPUS-GO for each downstream task are hosted on [Google Drive](xxx).
+The pre-trained models of OPUS-GO for each downstream task are hosted on [Google Drive](https://drive.google.com/drive/folders/11bRLpXBPuDYaMvTYU1HJ1MSoQc9pyisL?usp=drive_link).
 
 ## Reference 
 ```bibtex
